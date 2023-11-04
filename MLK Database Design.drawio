@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T03:02:28.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="92IOOChTF1LtCI_rAsIT" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-04T03:02:39.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XKtT8qPVyse0WspPUBtO" version="22.0.8" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="4068" dy="3116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1304,7 +1304,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mr_m_RHIinyECQtMo5WJ" name="Trang-2">
-    <mxGraphModel dx="3010" dy="3462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4598" dy="4280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1594,7 +1594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KJxUGPbEtMx1qmmzk6CK-67" value="ChildCategory" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="-280" width="306" height="90" as="geometry" />
+          <mxGeometry x="1530" y="-245.5" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KJxUGPbEtMx1qmmzk6CK-68" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="KJxUGPbEtMx1qmmzk6CK-67">
           <mxGeometry y="30" width="306" height="30" as="geometry" />
@@ -1623,7 +1623,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KJxUGPbEtMx1qmmzk6CK-74" value="ParentCategory" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2076" y="-229" width="288" height="60" as="geometry" />
+          <mxGeometry x="1952" y="-194.5" width="288" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJxUGPbEtMx1qmmzk6CK-75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="KJxUGPbEtMx1qmmzk6CK-74">
           <mxGeometry y="30" width="288" height="30" as="geometry" />
@@ -2366,8 +2366,8 @@
         </mxCell>
         <mxCell id="KJxUGPbEtMx1qmmzk6CK-340" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KJxUGPbEtMx1qmmzk6CK-75" target="KJxUGPbEtMx1qmmzk6CK-71">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1946" y="-125" as="sourcePoint" />
-            <mxPoint x="2046" y="-225" as="targetPoint" />
+            <mxPoint x="1822" y="-90.5" as="sourcePoint" />
+            <mxPoint x="1922" y="-190.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
