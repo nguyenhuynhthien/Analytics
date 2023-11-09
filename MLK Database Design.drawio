@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T01:34:29.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aEf2ydWx6y5wBi23oyFO" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-09T01:58:20.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="x3A5HhYCeCXIo2tEze1b" version="22.1.0" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="5297" dy="3660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2781,7 +2781,7 @@
             <mxRectangle width="30" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XjuhAXX4e6Zl25rd4UYR-7" value="(username, eventID)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XjuhAXX4e6Zl25rd4UYR-5">
+        <mxCell id="XjuhAXX4e6Zl25rd4UYR-7" value="(walletInforID, eventID)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XjuhAXX4e6Zl25rd4UYR-5">
           <mxGeometry x="30" width="262" height="38" as="geometry">
             <mxRectangle width="262" height="38" as="alternateBounds" />
           </mxGeometry>
@@ -2972,7 +2972,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NFq6BsNnJ0eJZswGpPm-112" value="currencyName VARCHAR(3) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="-NFq6BsNnJ0eJZswGpPm-110" vertex="1">
+        <mxCell id="-NFq6BsNnJ0eJZswGpPm-112" value="currencyID VARCHAR(3) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="-NFq6BsNnJ0eJZswGpPm-110" vertex="1">
           <mxGeometry x="30" width="251.5" height="30" as="geometry">
             <mxRectangle width="251.5" height="30" as="alternateBounds" />
           </mxGeometry>
